@@ -14,15 +14,6 @@ Jack is a dedicated Vanderbilt Economics major and NCAA Division I baseball stan
 * DeMatha Catholic High School
   * Graduated with Highest Honors & Scholar-Athlete Award
 
-## Technical Skills
-
-Jack can operate a number of different computer programs and controlled fabrication tools to turn 3D models into real-life parts. Jack has experience with the following technologies:
-
-* Microsoft Office/Excel
-* AutoCAD (Fusion 360)
-* Fused Filament Fabrication (FFF)
-* Python (Intermediate)
-
 ## Press 
 
 Jack's efforts alongside Vanderbilt Baseball's encouragement of local Nashville Students:  [NBC Today](https://www.nbc.com/today/video/vanderbilt-university-athletes-encourage-students-to-attend-school/NBCN481605840)
@@ -34,5 +25,14 @@ Decision-making to attend Vanderbilt:  [Capital Gazette,](https://www.capitalgaz
 2021 All-SEC Selection:  [Tennessean](https://www.tennessean.com/story/sports/2021/05/24/jack-leiter-kumar-rocker-enrique-bradfield-carter-young-jack-bulger-vanderbilt-baseball-sec-honors/5234609001/)
 
 Vanderbilt Baseball Bio:  [Bulger Brings His Best](https://vucommodores.com/bulger-brings-his-best/)
+
+## Technical Skills
+
+Jack can operate a number of different computer programs and controlled fabrication tools to turn 3D models into real-life parts. Jack has experience with the following technologies:
+
+* Microsoft Office/Excel
+* AutoCAD (Fusion 360)
+* Fused Filament Fabrication (FFF)
+* Python (Intermediate)
 
 <img src="/assets/img/IMG_0197.jpeg" alt="Jack Bulger" style="width:200px;"/>

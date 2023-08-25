@@ -25,7 +25,7 @@ Jack can operate a number of different computer programs and controlled fabricat
 
 ## Press 
 
-Jack's efforts alongside Vanderbilt Baseball's encouragement of local Nashville Students:  [NBC Today](https://www.nbc.com/today/video/vanderbilt-university-athletes-encourage-students-to-attend-school/NBCN481605840.)
+Jack's efforts alongside Vanderbilt Baseball's encouragement of local Nashville Students:  [NBC Today](https://www.nbc.com/today/video/vanderbilt-university-athletes-encourage-students-to-attend-school/NBCN481605840)
 
 Decision-making to attend Vanderbilt:  [Capital Gazette,](https://www.capitalgazette.com/sports/high-school/ac-cs-jack-bulger-bowie-mlb-draft-feature-20200609-dssinoyc5vesbp6o3vmir5ugru-story.html?outputType=amp) [NBC Sports,](https://www.nbcsportswashington.com/news/he-wasnt-selected-in-the-mlb-draft-but-demathas-jack-bulger-still-has-dream-school-to-look-forward-to/308502/) [Washington Post](https://www.washingtonpost.com/sports/2020/06/06/with-baseballs-status-uncertain-demathas-top-prospect-tries-make-sense-his-future/?outputType=amp)
 
@@ -35,4 +35,4 @@ Decision-making to attend Vanderbilt:  [Capital Gazette,](https://www.capitalgaz
 
 Vanderbilt Baseball Bio:  [Bulger Brings His Best](https://vucommodores.com/bulger-brings-his-best/)
 
-<img src="/assets/img/IMG_0197.jpeg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/IMG_0197.jpeg" alt="Jack Bulger" style="width:200px;"/>

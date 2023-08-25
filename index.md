@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/SIX_DCE6B73D-ED46-4DB0-9E47-87A9DA92DB57.JPG
+  overlay_image: /assets/img/SIX_3CE3422C-FEC5-43E5-8EDE-75F15A8210DC.JPG
   actions:
     - label: "My Projects"
       url: "/portfolio/"

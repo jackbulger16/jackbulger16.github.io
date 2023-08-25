@@ -5,7 +5,6 @@ title: "About Jack Bulger"
 ---
 
 ## Education
----
 
 Jack is a dedicated Vanderbilt Economics major and NCAA Division I baseball standout with experience in financial analysis, modeling, and Excel. He excelled in both academic and athletic realms while contributing to community service initiatives, Student-Athlete Advisory Committee (SAAC), and youth coaching during his time at school. Jack also was a 2021 NCAA Baseball National Runner-up and 2023 SEC Champion. 
 

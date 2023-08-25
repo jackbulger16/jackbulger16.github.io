@@ -1,10 +1,10 @@
 ---
-title: "Example Web Page"
+title: "Jack Bulger Resumè Website"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/IMG_4378.jpeg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
@@ -22,6 +22,5 @@ feature_row:
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
 ---
-
 {% include feature_row %}
 

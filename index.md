@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/img/IMG_4378.jpeg
   actions:
     - label: "My Projects"
-      url:  "/portfolio/"
+      URL: "/portfolio/"
 excerpt: "Thank you for visiting my page!":
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"

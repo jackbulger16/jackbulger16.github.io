@@ -1,31 +1,43 @@
 ---
 
-title: "About David Florian"
+title: "About Jack Bulger"
 
 ---
 
 ## Education
+---
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Jack is a dedicated Vanderbilt Economics major and NCAA Division I baseball standout with experience in financial analysis, modeling, and Excel. He excelled in both academic and athletic realms while contributing to community service initiatives, Student-Athlete Advisory Committee (SAAC), and youth coaching during his time at school. Jack also was a 2021 NCAA Baseball National Runner-up and 2023 SEC Champion. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * Major: Economics
+  * Minors: Business & Digital Fabrication
+* DeMatha Catholic High School
+  * Graduated with Highest Honors & Scholar-Athlete Award
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Jack can operate a number of different computer programs and controlled fabrication tools to turn 3D models into real-life parts. Jack has experience with the following technologies:
 
+* Microsoft Office/Excel
+* AutoCAD (Fusion 360)
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Python (Intermediate)
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Jack's efforts alongside Vanderbilt Baseball's encouragement of local Nashville Students [NBC Today](https://www.nbc.com/today/video/vanderbilt-university-athletes-encourage-students-to-attend-school/NBCN481605840.)
+
+Decision-making to attend Vanderbilt [Capital Gazette](https://www.capitalgazette.com/sports/high-school/ac-cs-jack-bulger-bowie-mlb-draft-feature-20200609-dssinoyc5vesbp6o3vmir5ugru-story.html?outputType=amp) [NBC Sports](https://www.nbcsportswashington.com/news/he-wasnt-selected-in-the-mlb-draft-but-demathas-jack-bulger-still-has-dream-school-to-look-forward-to/308502/) [Washington Post](https://www.washingtonpost.com/sports/2020/06/06/with-baseballs-status-uncertain-demathas-top-prospect-tries-make-sense-his-future/?outputType=amp)
+
+2-Time Gatorade Player of the Year [Capital Gazette](https://www.capitalgazette.com/sports/ac-cs-jackbulger-gatoradepoy20190602-story.html)
+
+2021 All-SEC Selection [Tennessean](https://www.tennessean.com/story/sports/2021/05/24/jack-leiter-kumar-rocker-enrique-bradfield-carter-young-jack-bulger-vanderbilt-baseball-sec-honors/5234609001/)
+
+Vanderbilt Baseball Bio [Bulger Brings His Best](https://vucommodores.com/bulger-brings-his-best/)
+
+
+
+
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>

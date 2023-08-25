@@ -38,6 +38,6 @@ Vanderbilt Baseball Bio:  [Bulger Brings His Best](https://vucommodores.com/bulg
 
 
 
-
+![Jack Bulger](/assets/img/IMG_0197.jpeg)
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>

@@ -18,7 +18,7 @@ feature_row:
     alt: "Catchers Thumb Guard"
     title: "Catchers Thumb Guard"
     excerpt: "Created a 3D printed protective thumb guard to wear under a catchers mitt. It is custom-fitted to each player's hand size and is absorbent to prevent potential thumb injuries. "
-  - image_path: /assets/img/Image 8-25-23 at 5.14 PM.jpeg
+  - image_path: /assets/img/Image 8-26-23 at 2.59 PM.jpeg
     title: "DIY Syringe Pump "
     excerpt: "Electric Syringe pump based off of linear actuator capable of dispensing small and accurate amounts of fluid. "
 ---

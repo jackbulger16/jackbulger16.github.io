@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Thank you for visiting my website! Please explore some of my major projects from my time at school and an intership."
+excerpt: "Thank you for visiting my website! Please explore some of my major projects from my time at school and an internship."
 feature_row:
   - image_path: /assets/img/Image 8-25-23 at 4.54 PM.jpeg
     alt: "WWE & UFC Merger"

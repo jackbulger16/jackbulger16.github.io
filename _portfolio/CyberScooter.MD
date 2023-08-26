@@ -161,12 +161,7 @@ gallery:
   - url: /assets/img/Slide52.jpeg
     image_path: /assets/img/Slide52.jpeg
     alt: "Slide 52"
-  - url: /assets/img/Slide53.jpeg
-    image_path: /assets/img/Slide53.jpeg
-    alt: "Slide 53"
-  - url: /assets/img/Slide54.jpeg
-    image_path: /assets/img/Slide54.jpeg
-    alt: "Slide 54"
+
  
 ---
 

@@ -5,12 +5,7 @@ header:
   image: /assets/img/SIX_6E95C063-FE15-429E-A152-AF8CFE997D5A.jpeg
   teaser: /assets/img/SIX_8874EF9A-48A1-44EA-9D2C-7DC007A59798.JPG
 gallery:
-  - image_path: /assets/img/IMG_4217.jpeg
-  - image_path: /assets/img/IMG_4218.jpeg
-  - image_path: /assets/img/IMG_4219.jpeg
-  - image_path: /assets/img/IMG_4220.jpeg
-  - image_path: /assets/img/IMG_4221.jpeg
-  - image_path: /assets/img/IMG_4222.jpeg
+  - image_path: 
    
 ---
 
@@ -21,7 +16,8 @@ gallery:
 * 1 Guard lasted me an entire 60+ game SEC college baseball season. Withstood 90+ mph fastballs
 
 ### CAD Model
-<iframe src="https://vanderbilt973.autodesk360.com/shares/public/SHd38bfQT1fb47330c99856122ffcac3c6bc?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt973.autodesk360.com/shares/public/SHd38bfQT1fb47330c995a7d081738a6eefb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 {% include gallery caption="ThumbShield Prototype v001" %}
 

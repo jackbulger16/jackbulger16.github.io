@@ -3,7 +3,7 @@ title: "ThumbShield"
 excerpt: "Custom Fitted Thumb Guard to Prevent Cathcer's Injuries "
 header:
   image: /assets/img/SIX_6E95C063-FE15-429E-A152-AF8CFE997D5A.jpeg
-  teaser: /assets/img/SIX_8874EF9A-48A1-44EA-9D2C-7DC007A59798.JPG
+  teaser: /assets/img/IMG_4222.jpeg
 gallery:
   - image_path: /assets/img/IMG_4217.jpeg
   - image_path: /assets/img/IMG_4218.jpeg

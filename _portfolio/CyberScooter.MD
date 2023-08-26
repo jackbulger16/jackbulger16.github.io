@@ -2,7 +2,7 @@
 title: "WWE and UFC"
 excerpt: "Merger between 2 pure-play sports businesses under the flywheel of Endeavor"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: /assets/img/Slide3.jpeg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/Slide1.jpeg
@@ -11,7 +11,7 @@ gallery:
   - url: /assets/img/Slide2.jpeg
     image_path: /assets/img/Slide2.jpeg
     alt: "Slide 2"
-    - url: /assets/img/Slide3.jpeg
+  - url: /assets/img/Slide3.jpeg
     image_path: /assets/img/Slide3.jpeg
     alt: "Slide 3"
   - url: /assets/img/Slide4.jpeg

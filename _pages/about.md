@@ -8,7 +8,7 @@ title: "About Jack Bulger"
 
 Jack is a dedicated Vanderbilt Economics major and NCAA Division I baseball standout with experience in financial analysis, modeling, and Excel. He excelled in both academic and athletic realms while contributing to community service initiatives, Student-Athlete Advisory Committee (SAAC), and youth coaching during his time at school. Jack also was a 2021 NCAA Baseball National Runner-up and 2023 SEC Champion. 
 
-* Vanderbilt University
+* Vanderbilt University (expected Spring 2024)
   * Major: Economics
   * Minors: Business & Digital Fabrication
 * DeMatha Catholic High School
@@ -34,5 +34,16 @@ Jack can operate a number of different computer programs and controlled fabricat
 * AutoCAD (Fusion 360)
 * Fused Filament Fabrication (FFF)
 * Python (Intermediate)
+
+## Work Experience
+
+* Alta Park Capital Summer Analyst
+  * Conducted financial modeling, peer benchmarking and valuation analysis that contributed to investment decisions for a TMT hedge fund in New York City with over $1.5 billion dollars in assets under management
+
+* Private Instructor
+  * Financed my journey to the prestigious Cape Cod Collegiate Baseball League by coaching youth players on various baseball skills
+
+* Athletic Performance Inc. Coach and Speaker
+  * Delivered lectures to youth coaches, emphasizing the critical role of leadership and effective player development within teams
 
 <img src="/assets/img/IMG_0197.jpeg" alt="Jack Bulger" style="width:200px;"/>

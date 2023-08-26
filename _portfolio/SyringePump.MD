@@ -2,18 +2,24 @@
 title: "DIY Syringe Pump"
 excerpt: "Custom Fitted Thumb Guard to Prevent Cathcer's Injuries "
 header:
-  image: /assets/img/SIX_6E95C063-FE15-429E-A152-AF8CFE997D5A.jpeg
-  teaser: /assets/img/SIX_8874EF9A-48A1-44EA-9D2C-7DC007A59798.JPG
+  image: /assets/img/Image 8-26-23 at 2.59 PM.jpeg
+  teaser: /assets/img/Image 8-26-23 at 2.59 PM.jpeg
 gallery:
-  - image_path: 
-   
+  - image_path: /assets/img/Image 8-26-23 at 2.59 PM.jpeg
+  - image_path: /assets/img/Image 8-26-23 at 3.05 PM (1).jpeg
+  - image_path: /assets/img/Image 8-26-23 at 3.05 PM.jpeg
 ---
 
 ### Features
 
-* Fully customizable fit with 8 points of measurement
-* Absorbant Material with TPU 95A. All other thumb guards on the sports market are made from a cast. They are extremely hard and bruise the player's thumb on impact. My thumb guard absorbs the impact to keep the player on the field
-* 1 Guard lasted me an entire 60+ game SEC college baseball season. Withstood 90+ mph fastballs
+* Syringe pumps are motor-driven pumps capable of delivering a wide range of flow rates.
+* There are many benefits of a syringe pump over a centrifugal or peristaltic pump. A few of these advantages are:
+  * Sterility and minimal cross-contamination when swapping syringes 
+  * Pumping of highly viscous fluids
+  * High accuracy
+  * Non-pulsatile flow
+* Syringe pumps require only a handful of parts and rely on simple electronic control systems.
+* Commercial variants can still cost several hundred dollars for entry-level models, so designing, 3D printing, and programming a syringe pump is a cost-effective alternative. 
 
 ### CAD Model
 <iframe src="https://vanderbilt973.autodesk360.com/shares/public/SHd38bfQT1fb47330c995a7d081738a6eefb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>

@@ -1,5 +1,5 @@
 ---
-title: "Jack Bulger Resumè Website"
+title: "Jack Bulger's Website"
 layout: splash
 header:
   overlay_color: "#000"

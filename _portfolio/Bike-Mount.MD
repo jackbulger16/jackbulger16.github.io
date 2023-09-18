@@ -38,4 +38,4 @@ gallery:
 
 
 
-{% include gallery caption="Syringe Pump Gallery" %}
+{% include gallery caption="Phone Attachment Gallery" %}

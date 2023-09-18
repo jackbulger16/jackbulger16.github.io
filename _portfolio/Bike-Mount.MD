@@ -17,3 +17,25 @@ gallery:
   - image_path: /assets/img/IMG_0616.jpeg
   - image_path: /assets/img/IMG_0617.jpeg
 ---
+
+### CAD Model
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7f43430d281336aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+### Goals
+
+*
+
+### Features
+
+* Syringe pumps are motor-driven pumps capable of delivering a wide range of flow rates.
+* There are many benefits of a syringe pump over a centrifugal or peristaltic pump. A few of these advantages are:
+  * Sterility and minimal cross-contamination when swapping syringes 
+  * Pumping of highly viscous fluids
+  * High accuracy
+  * Non-pulsatile flow
+* Syringe pumps require only a handful of parts and rely on simple electronic control systems.
+* Commercial variants can still cost several hundred dollars for entry-level models, so designing, 3D printing, and programming a syringe pump is a cost-effective alternative. 
+
+
+{% include gallery caption="Syringe Pump Gallery" %}

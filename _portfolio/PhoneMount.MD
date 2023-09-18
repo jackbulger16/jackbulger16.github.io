@@ -1,7 +1,7 @@
 ---
 title: "Swivel Phone Mount for Bike"
 excerpt: "Swivel mount phone holder for directions and music while on the road."
-header: /assets/img/Image 9-17-23 at 12.07 PM.jpeg
+header:
   image: /assets/img/Image 9-17-23 at 12.07 PM.jpeg
   teaser: /assets/img/Image 9-17-23 at 12.07 PM.jpeg
 gallery:

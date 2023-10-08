@@ -28,8 +28,6 @@ gallery:
 
     I added my own touch with the puzzle piece connection to upgrade the performance of my pliers. I also made my pliers on the larger side. I wanted to be able to pick up large and small objects to increase the versatility of my pliers. The pliers are 180 mm long and 100 mm wide. At a resting position, the plier’s jaws are a little over 13 mm wide. They fully close when squeezed. 
 
-![](/assets/img/Plier1.gif)
-
     PLA and TPU lack a strong chemical adhesion when the filament is printed, so I had to utilize mechanical connections to prevent the entire assembly from disassembling. The puzzle piece geometry keeps both parts together under the tension of closing the pliers. It allows for more surface area adhesion for each material to stay in place. Multi-material Fused Filament Fabrication (FFF) enables the design and fabrication of mechanical connections that would be unattainable with conventional additive and subtractive manufacturing methods.
 
     With the print itself, TPU, being a flexible filament, requires a slower printing speed compared to PLA. Multi-material filament printing results in a reduction in the number of components and connectors, ultimately leading to fewer potential problems during the print and assembly. There is nothing to assemble after the pliers are printed. The right extruder was PLA. It printed at temperatures of 205-210 C. The left extruder was the TPU side and printed between 230-235 C. Each side printed 2 layers and alternated in order to minimize the number of transitions between extruders. 

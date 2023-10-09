@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/IMG_0197.jpeg"
+  avatar           : "/assets/img/Image 9-25-23 at 9.10 AM.jpeg"
   bio              : "Student-Athlete majoring in Economics with a minor in Business and Digital Fabrication "
   location         : "Bowie, MD "
   links:
@@ -111,7 +111,7 @@ footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/jackbulger_"
 
 
 # Reading Files

@@ -46,4 +46,4 @@ Jack can operate a number of different computer programs and controlled fabricat
 * Athletic Performance Inc. Coach and Speaker
   * Delivered lectures to youth coaches, emphasizing the critical role of leadership and effective player development within teams
 
-<img src="/assets/img/IMG_0197.jpeg" alt="Jack Bulger" style="width:200px;"/>
+<img src="/assets/img/Image 9-25-23 at 9.10 AM.jpeg" alt="Jack Bulger" style="width:200px;"/>

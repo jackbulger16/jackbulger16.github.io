@@ -17,7 +17,7 @@ gallery:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec3df58f471dd91e1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-### Take a Look
+### Take a Look!
 
 ![](/assets/img/Plier1.gif)
 ![](/assets/img/pliers2.gif)

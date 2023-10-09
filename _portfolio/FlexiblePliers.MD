@@ -2,8 +2,8 @@
 title: "Multi-Material Pliers"
 excerpt: "Needle nose pliers that are capable of gripping and picking up through-hole resistors"
 header:
-  image: /assets/img/IMG_0776.jpeg
-  teaser: /assets/img/IMG_0776.jpeg
+  image: /assets/img/Image 10-8-23 at 4.34 PM.jpeg
+  teaser: /assets/img/Image 10-8-23 at 4.32 PM.jpeg
 gallery:
   - image_path: /assets/img/Image 10-8-23 at 4.32 PM.jpeg
   - image_path: /assets/img/Image 10-8-23 at 4.33 PM.jpeg

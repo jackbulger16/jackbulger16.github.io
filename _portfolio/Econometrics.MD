@@ -10,8 +10,6 @@ gallery:
   - image_path: assets/img/Image 11-10-23 at 10.46 AM.jpeg
 ---
 
-# Python Portfolio
-
 ## Public Use Microdata Sample (PUMS) Project
 
 ```python

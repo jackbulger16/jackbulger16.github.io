@@ -7,6 +7,7 @@ gallery:
   - image_path: assets/img/Image 11-10-23 at 10.36 AM.jpeg
   - image_path: assets/img/Image 11-10-23 at 10.46 AM (1).jpeg
   - image_path: assets/img/Image 11-10-23 at 10.46 AM.jpeg
+---
 
 # Python Portfolio
 
@@ -123,3 +124,4 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
 plt.title('Correlation Heatmap of Regression Variables (Nashville)')
 plt.show()
 
+{% include gallery caption= "Regression Analysis and Heat Map of Variables" %}

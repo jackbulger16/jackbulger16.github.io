@@ -1,5 +1,5 @@
 ---
-title: "Econometrics IPUMS Project"
+title: "IPUMS Project"
 excerpt: "Income disparities between Nashville and Tennessee, with a focus on gender-based variations through regression analysis"
 header:
   image: assets/img/Image 11-10-23 at 10.46 AM.jpeg
@@ -10,6 +10,7 @@ gallery:
   - image_path: assets/img/Image 11-10-23 at 10.46 AM.jpeg
 ---
 
+## Econometrics Portfolio:
 ## Public Use Microdata Sample (PUMS) Project
 
 ```python

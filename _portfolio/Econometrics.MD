@@ -124,5 +124,6 @@ plt.figure(figsize=(10, 8))
 sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
 plt.title('Correlation Heatmap of Regression Variables (Nashville)')
 plt.show()
+```
 
 {% include gallery caption= "Regression Analysis and Heat Map of Variables" %}

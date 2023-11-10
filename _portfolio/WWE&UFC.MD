@@ -3,7 +3,7 @@ title: "WWE and UFC"
 excerpt: "Merger between 2 pure-play sports businesses under the flywheel of Endeavor"
 header:
   image: /assets/img/WWE/Slide2.jpeg
-  teaser: /assets/img/WWE/Image 8-25-23 at 8.29 PM.jpeg
+  teaser: /assets/img/Image 8-25-23 at 8.29 PM.jpeg
 gallery:
   - url: assets/img/WWE/Slide1.jpeg
     image_path: assets/img/WWE/Slide1.jpeg
@@ -18,7 +18,7 @@ gallery:
     image_path: /assets/img/WWE/Slide4.jpeg
     alt: "Slide 4"
   - url: /assets/img/WWE/Slide5.jpeg
-    image_path: /assets/WWE/img/Slide5.jpeg
+    image_path: /assets/img/WWE/Slide5.jpeg
     alt: "Slide 5"
   - url: /assets/img/WWE/Slide6.jpeg
     image_path: /assets/img/WWE/Slide6.jpeg

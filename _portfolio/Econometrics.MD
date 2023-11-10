@@ -1,3 +1,4 @@
+---
 title: "Econometrics IPUMS Project"
 excerpt: "Income disparities between Nashville and Tennessee, with a focus on gender-based variations through regression analysis"
 header:

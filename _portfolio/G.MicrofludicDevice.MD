@@ -1,16 +1,16 @@
 ---
 title: "Microfluidic Mixing Device"
-excerpt: "A DIY Swivel Bike Mount for my iPhone that helps with music and directions"
+excerpt: "Microfluidic mixing device with the purpose of mixing small volumes of fluid"
 header:
   image: assets/img/IMG_1250.jpeg
-  teaser: /assets/img/Image 9-17-23 at 12.07 PM.jpeg
+  teaser: assets/img/IMG_1250.jpeg
 gallery:
   - image_path: assets/img/IMG_1250.jpeg
 ---
 
 ### CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7f43430d281336aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9099bb1016f0b22f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Working Device
 

@@ -14,7 +14,7 @@ gallery:
 
 ### Working Device
 # Click here for YouTube Video
-[![assets/img/IMG_1347.jpg](https://youtu.be/Ks-U-MTUucE))]
+[![Vanderbilt CHBE 4200 - J&J Microfluidic Device Demonstration](assets/img/IMG_1347.jpg)](https://www.youtube.com/watch?v=Ks-U-MTUucE "J&J Microfluidic Device Demonstration")
 
 ### Goals
 

@@ -13,9 +13,8 @@ gallery:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9099bb1016f0b22f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Working Device
-
-[![Click here for YouTube Link](assets/img/IMG_1347.jpg)](https://youtu.be/StTqXEQ2l-Y?t=35s "Microfluidic ")
-
+# Click here for YouTube Video
+[![assets/img/IMG_1347.jpg](https://youtu.be/Ks-U-MTUucE))]
 
 ### Goals
 

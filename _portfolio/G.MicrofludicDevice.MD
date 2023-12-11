@@ -14,7 +14,7 @@ gallery:
 
 ### Working Device
 
-[![Everything Is AWESOME](https://www.youtube.com/watch?v=Ks-U-MTUucE)](https://youtu.be/StTqXEQ2l-Y?t=35s "Microfluidic ")
+[![Click here for YouTube Link](assets/img/IMG_1347.jpg)](https://youtu.be/StTqXEQ2l-Y?t=35s "Microfluidic ")
 
 
 ### Goals

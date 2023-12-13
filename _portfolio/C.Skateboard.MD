@@ -76,4 +76,4 @@ Conclusion
 The unique pairing of powder bed fusion and generative design has created a new era of innovation in the aerospace and automotive industries. The seamless integration of these technologies allow for the creation of highly complex, lightweight, and performance-optimized components that were once considered unattainable. As these industries continue to push the boundaries of design and efficiency, the collaborative power of powder bed fusion and generative design stands as a testament to the transformative potential of additive manufacturing in shaping the future of aerospace and automotive engineering.
 
 
-{% include gallery caption="Skateboard" %}
+{% include gallery caption="Skateboard Gallary" %}

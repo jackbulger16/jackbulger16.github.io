@@ -6,6 +6,7 @@ header:
   teaser: assets/img/IMG_1250.jpeg
 gallery:
   - image_path: assets/img/IMG_1250.jpeg
+  - image_path: assets/img/IMG_1279.jpeg
 ---
 
 ### CAD Model

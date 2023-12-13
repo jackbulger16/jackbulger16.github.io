@@ -13,7 +13,7 @@ gallery:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9099bb1016f0b22f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Working Device -  Click for YouTube Video
-[![Vanderbilt CHBE 4200 - J&J Microfluidic Device Demonstration](assets/img/IMG_1347.jpg)](https://www.youtube.com/watch?v=Ks-U-MTUucE "J&J Microfluidic Device Demonstration")
+[![Vanderbilt CHBE 4200 - J&J Microfluidic Device Demonstration](assets/img/IMG_1279.jpeg)](https://www.youtube.com/watch?v=Ks-U-MTUucE "J&J Microfluidic Device Demonstration")
 
 ### Goals
 

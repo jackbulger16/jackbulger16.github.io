@@ -1,6 +1,6 @@
 ---
-title: "Electric Skate Board"
-excerpt: "Custom Made Skate Board with Generative Designed Trunks "
+title: "Electric Skateboard"
+excerpt: "Custom Made Skateboard with Generative Designed Trunks "
 header:
   image: assets/img/PPP-3.jpeg
   teaser: assets/img/c9063288-4a77-4a44-ad9e-4840c2907b4e.PNG
@@ -16,7 +16,7 @@ gallery:
   - image_path: assets/img/IMG_1314.jpeg
   - image_path: assets/img/Skateboard LF3D v13.png
 ---
-### Model
+### CAD Models
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec42cf91a2557a619?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
